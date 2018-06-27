@@ -1,16 +1,8 @@
 {
   "assetsByChunkName": {
-    "path---articles-managing-data-science-projects": [
-      "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js",
-      "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c9884f4756c68a26e1ad.js",
-      "component---src-pages-index-js-c9884f4756c68a26e1ad.js.map"
-    ],
-    "path---articles": [
-      "path---articles-a0e39f21c11f6a62c5ab.js",
-      "path---articles-a0e39f21c11f6a62c5ab.js.map"
+      "component---src-pages-index-js-ae191bc7474436e5c982.js",
+      "component---src-pages-index-js-ae191bc7474436e5c982.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -28,34 +20,26 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-articles-managing-data-science-projects-js": [
-      "component---src-pages-articles-managing-data-science-projects-js-34c2658b22efaced6dd9.js",
-      "component---src-pages-articles-managing-data-science-projects-js-34c2658b22efaced6dd9.js.map"
-    ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-d025bce1c0dd4fc4545e.js",
-      "component---src-pages-404-js-d025bce1c0dd4fc4545e.js.map"
+      "component---src-pages-404-js-bd622634d436b18884a0.js",
+      "component---src-pages-404-js-bd622634d436b18884a0.js.map"
     ],
     "commons": [
-      "commons-5a269107b96c9f785df3.js",
-      "commons-5a269107b96c9f785df3.js.map"
+      "commons-512ca5ce87838b4470c0.js",
+      "commons-512ca5ce87838b4470c0.js.map"
     ],
     "component---src-pages-case-studies-js": [
       "component---src-pages-case-studies-js-b2968bab639900d7383c.js",
       "component---src-pages-case-studies-js-b2968bab639900d7383c.js.map"
-    ],
-    "component---src-pages-articles-js": [
-      "component---src-pages-articles-js-e8acda4d7a79d7292283.js",
-      "component---src-pages-articles-js-e8acda4d7a79d7292283.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-42be073e914aea9af258.js",
+      "app-ed88e74f893db4e3bf70.js",
       "build-js-styles.css",
-      "app-42be073e914aea9af258.js.map",
+      "app-ed88e74f893db4e3bf70.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
