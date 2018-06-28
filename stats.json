@@ -1,8 +1,12 @@
 {
   "assetsByChunkName": {
+    "path---articles-managing-data-science-projects": [
+      "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js",
+      "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-ae191bc7474436e5c982.js",
-      "component---src-pages-index-js-ae191bc7474436e5c982.js.map"
+      "component---src-pages-index-js-7cd654095848f86ab454.js",
+      "component---src-pages-index-js-7cd654095848f86ab454.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -19,6 +23,10 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-articles-managing-data-science-projects-js": [
+      "component---src-pages-articles-managing-data-science-projects-js-283ce798a5c477a0c093.js",
+      "component---src-pages-articles-managing-data-science-projects-js-283ce798a5c477a0c093.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-bd622634d436b18884a0.js",
@@ -37,9 +45,9 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-ed88e74f893db4e3bf70.js",
+      "app-72f7da07ea55faac3656.js",
       "build-js-styles.css",
-      "app-ed88e74f893db4e3bf70.js.map",
+      "app-72f7da07ea55faac3656.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
