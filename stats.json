@@ -4,9 +4,17 @@
       "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js",
       "path---articles-managing-data-science-projects-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-articles-understanding-and-managing-uncertainty-in-data-science-projects-js": [
+      "component---src-pages-articles-understanding-and-managing-uncertainty-in-data-science-projects-js-6d0d025e69ef28375be8.js",
+      "component---src-pages-articles-understanding-and-managing-uncertainty-in-data-science-projects-js-6d0d025e69ef28375be8.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-580cf64ba95ee2513235.js",
       "component---src-pages-index-js-580cf64ba95ee2513235.js.map"
+    ],
+    "path---articles-understanding-and-managing-uncertainty-in-data-science-projects": [
+      "path---articles-understanding-and-managing-uncertainty-in-data-science-projects-a0e39f21c11f6a62c5ab.js",
+      "path---articles-understanding-and-managing-uncertainty-in-data-science-projects-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---articles": [
       "path---articles-a0e39f21c11f6a62c5ab.js",
@@ -19,10 +27,6 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-1c29686c83300210d2d1.js",
       "component---src-layouts-index-js-1c29686c83300210d2d1.js.map"
-    ],
-    "path---articles-time-cost-and-outcomes-in-data-science-projects": [
-      "path---articles-time-cost-and-outcomes-in-data-science-projects-a0e39f21c11f6a62c5ab.js",
-      "path---articles-time-cost-and-outcomes-in-data-science-projects-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---case-studies": [
       "path---case-studies-a0e39f21c11f6a62c5ab.js",
@@ -49,21 +53,17 @@
       "component---src-pages-case-studies-js-c778e7e3e5f5cdbce4f2.js.map"
     ],
     "component---src-pages-articles-js": [
-      "component---src-pages-articles-js-80cffaceb18465f6791b.js",
-      "component---src-pages-articles-js-80cffaceb18465f6791b.js.map"
+      "component---src-pages-articles-js-72fe68d55ffbf3602fb2.js",
+      "component---src-pages-articles-js-72fe68d55ffbf3602fb2.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-articles-time-cost-and-outcomes-in-data-science-projects-js": [
-      "component---src-pages-articles-time-cost-and-outcomes-in-data-science-projects-js-b3435dcd8535b5ca0cac.js",
-      "component---src-pages-articles-time-cost-and-outcomes-in-data-science-projects-js-b3435dcd8535b5ca0cac.js.map"
-    ],
     "app": [
-      "app-46c5852360007e8180bb.js",
+      "app-b9d79ca401046f412345.js",
       "build-js-styles.css",
-      "app-46c5852360007e8180bb.js.map",
+      "app-b9d79ca401046f412345.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
