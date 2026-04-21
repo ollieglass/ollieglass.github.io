@@ -1,31 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ollie Glass — Lead Data & AI Engineer</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ollie Glass - Lead Data & AI Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
 </head>
-<body style="margin:0;padding:0;font-family:'DM Sans',system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.6;color:#1a1a1a;background:#faf9f7;min-height:100vh;box-sizing:border-box;">
-  <main style="max-width:42rem;margin:0 auto;padding:3rem 1.5rem 4rem;">
-    <header style="margin-bottom:2.5rem;">
-      <h1 style="margin:0 0 0.25em;font-family:'DM Serif Display',Georgia,serif;font-size:2.25rem;font-weight:400;letter-spacing:-0.02em;color:#0d0d0d;">Ollie Glass</h1>
-      <p style="margin:0;font-size:1rem;font-weight:500;color:#555;">Lead Data & AI Engineer</p>
-    </header>
+<body>
+<div class="page">
 
-    <section style="margin-bottom:2.5rem;">
-      <p style="margin:0 0 1rem;font-size:1.05rem;color:#2a2a2a;">
-        I build production data systems and AI-enabled products end to end, from ingestion, modelling, and orchestration through to deployment, monitoring, and business-facing delivery. I’ve led work across data platforms, forecasting and recommendation systems, internal decision tools, and LLM-powered features, with a particular strength in turning messy, fragmented business processes into reliable systems that teams can actually use.
-      </p>
-    </section>
+  <h1 class="name">Ollie Glass</h1>
+  <p class="title">Lead Data & AI Engineer</p>
 
+  <p class="angle">
+    I build AI systems that raise the ceiling for the teams around them.
+  </p>
 
-    <footer style="padding-top:1.5rem;border-top:1px solid #e5e3e0;">
-      <p style="margin:0 0 0.5rem;font-size:0.95rem;color:#555;">LinkedIn <a href="https://www.linkedin.com/in/ollieglass/" style="color:#2563eb;text-decoration:none;font-weight:500;">[link]</a></p>
-      <p style="margin:0;font-size:0.95rem;color:#555;">Email <a href="mailto:ollie@ollieglass.com" style="color:#2563eb;text-decoration:none;font-weight:500;">ollie@ollieglass.com</a></p>
-    </footer>
-  </main>
+  <hr class="rule">
+
+  <p class="bio">
+    I build production data systems and AI-enabled products end to end - from ingestion, modelling, and orchestration through to deployment, monitoring, and user-facing delivery. I've led work on data platforms, forecasting and recommendation systems, internal decision tools, and LLM-powered features, with a particular strength in turning messy, fragmented business processes into reliable systems that teams can actually use.
+  </p>
+
+  <p class="bio">
+    I'm strongest as a first or second AI hire: someone who can own evals, deployment, monitoring, and the data layer end-to-end, and who's done it enough times to know where the real problems are. After years of contract work, I'm looking for a permanent role where I can shape direction and own product arcs, not just deliver.
+  </p>
+
+  <hr class="rule rule--full">
+
+  <p class="section-label">Selected Work</p>
+
+  <div class="work-entry">
+    <p class="work-title">Automated Intelligence Platform</p>
+    <p class="work-context">Recruitment intelligence - LLM summarisation, trend detection, human-in-the-loop</p>
+    <p class="work-desc">
+      Designed and built a platform ingesting ~100 sources daily, with an LLM layer for
+      extracting insights, clustering via embeddings, and drafting summary reports. Surfaced
+      industry signals that weren't being tracked by any existing channel. End-to-end from
+      sourcing through to draft generation in under ten minutes.
+    </p>
+  </div>
+
+  <div class="work-entry">
+    <p class="work-title">Data Platform Turnaround</p>
+    <p class="work-context">DTC food - AWS/Redshift, dbt, Looker, cross-functional alignment</p>
+    <p class="work-desc">
+      Inherited a fragmented and unreliable data estate during leadership churn. Restructured
+      the platform, modularised the codebase so BI analysts could contribute safely, and cut
+      reporting time by 75%. The real work was alignment - getting BI, finance, and data
+      into the same room and agreeing on what mattered.
+    </p>
+  </div>
+
+  <div class="work-entry">
+    <p class="work-title">Ad Mediation Optimiser</p>
+    <p class="work-context">Ad tech - contextual bandits, online learning, 500M events/day</p>
+    <p class="work-desc">
+      Built an ad mediation system using contextual bandits and supervised learning, serving
+      500 million events per day. Included offline and online evaluation, automated fallbacks,
+      and the kind of production guardrails you need when a model decision happens at that
+      frequency.
+    </p>
+  </div>
+
+  <hr class="rule rule--full">
+
+  <p class="section-label">Contact</p>
+  <div class="contact-links">
+    <a href="mailto:ollie@ollieglass.com" class="contact-link">ollie@ollieglass.com</a>
+    <a href="https://www.linkedin.com/in/ollieglass/" class="contact-link">LinkedIn</a>
+  </div>
+
+  <div class="footer">
+    London - available for permanent roles, open to contract.
+  </div>
+
+</div>
 </body>
 </html>
